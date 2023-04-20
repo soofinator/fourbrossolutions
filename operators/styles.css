@@ -4,9 +4,11 @@ body {
 	padding-top:5em;
 	font-family:Calibri,"Trebuchet MS";
 }
+/*
 ol, ul, .main {
 	font-size: 1.25em;
 }
+*/
 .link{
 	text-decoration: none;
 }
@@ -35,7 +37,7 @@ ol, ul, .main {
 	font-family:Calibri,"Trebuchet MS";
 }
 h1 {
-	font-size:2em;
+	/*font-size:2em;*/
 	font-family:Calibri,"Trebuchet MS";
 	position: left;
 	text-align: left;
@@ -53,7 +55,7 @@ img.center {
 #list {
 	font-family:Calibri,"Trebuchet MS";
 	font-weight:bold;
-	font-size:2em;
+	/*font-size:2em;*/
 	}
 .social{
 	width: 20em;
