@@ -15,22 +15,22 @@ ol, ul, .main {
 }
 .top {
 		background-color:#ff8200;
-		height:3em;
+		height:5em;
 		width:100%;
 		position:fixed;
 		left:0em;
 		top:0em;
 		position: center;
 		text-align: center;
-		font-size: 1.25em;
+		font-size: 1.5em;
 		}
 
 #links {
 	background-color: inherit;
 	color: black;
-	top: 3em;
+	top: 5em;
 	height: 5em;
-	font-size: 0.9em;
+	font-size: 1em;
 	font-family:Calibri,"Trebuchet MS";
 }
 
