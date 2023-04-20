@@ -1,7 +1,7 @@
 body {
 	background-color:#b6b6b6;
 	color: #333333;
-	padding-top:5em;
+	padding-top:10em;
 	font-family:Calibri,"Trebuchet MS";
 }
 /*
@@ -12,7 +12,7 @@ ol, ul, .main {
 .link{
 	text-decoration: none;
 }
-#header {
+.top {
 		background-color:#ff8200;
 		height:5em;
 		width:100%;
@@ -21,9 +21,14 @@ ol, ul, .main {
 		top:0em;
 		position: center;
 		text-align: center;
+		font-size: 1.25em;
 		}
+
+#links {
+	top: 5em;
+	font-size: 0.9em;
+}
 .menuitem {
-	font-size:0.9em;
 	color:white;
 	}
 .menuitem a {
